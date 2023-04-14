@@ -1,0 +1,69 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.parallax-1 h1{
+    background-color: aqua;
+    background-image: url("../many-athletes.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: fixed;
+    color: black;
+    height: 100%;
+    
+}
+.parallax-2{
+    background-color: blue;
+    background-image: url("../not-win.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* background-attachment: fixed; */
+    color: black;
+    
+}
+.parallax-3{
+    background-color: yellow;
+    background-image: url("../running athletes1.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: fixed;
+    color: white;
+    
+}
+.parallax-4{
+    background-color: red;
+    background-image: url("../person-i-was.jpg");
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* background-attachment: fixed; */
+    color: red;
+    
+}
+.parallax-5{
+    background-color: purple;
+    background-image: url("../single-athlete.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* background-attachment: fixed; */
+    color: white;
+    
+}
+
+    
+
